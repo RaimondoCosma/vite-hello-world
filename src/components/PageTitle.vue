@@ -14,7 +14,9 @@ export default {
 
 <style scoped>
   h1 {
+    color: #fff;
     text-align: center;
+    background-image: linear-gradient(to right, #030b16, #212041, #5b265f);
   }
 </style>
 

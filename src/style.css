@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container {
+    max-width: 68.75rem;
+    margin: auto;
+}
+img {
+    width: 100%;
+}
